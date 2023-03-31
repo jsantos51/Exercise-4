@@ -7,3 +7,8 @@ def goodbye():
     print("goodbye")
 
 goodbye()
+
+def helloagain():
+    print("hello again")
+
+helloagain()
