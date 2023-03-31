@@ -5,5 +5,5 @@ sayhello()
 
 def goodbye():
     print("goodbye")
-    
+
 goodbye()
